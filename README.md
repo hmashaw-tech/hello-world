@@ -2,4 +2,4 @@
 Just another repo
 
 The usual hello-world stuff
-Javascript vs. Go, hmm
+JavaScript vs. Go, hmm
